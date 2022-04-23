@@ -1,0 +1,19 @@
+{ 
+    "contactList":
+    [{
+        "name": "Bob",
+        "lastname": "Bober",
+        "phone": "+1111111",
+        "photo": "photo1.jpg"
+    },{
+        "name": "Anna",
+        "lastname": "Anner",
+        "phone": "+2222222",
+        "photo": "photo2.jpg"
+    },{
+        "name": "Vava",
+        "lastname": "Vaver",
+        "phone": "+3333333",
+        "photo": "photo3.jpg"
+    }]
+}
